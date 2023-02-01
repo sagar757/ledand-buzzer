@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\Debug\LEDPORTd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LEDPORTd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LEDPORTd.map</FILE>
+  <FILE>LEDPORTd.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</FILE><LINE>21</LINE></L1>
+  <DELAY_1S><FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</FILE><LINE>48</LINE></DELAY_1S>
+  <D1><FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</FILE><LINE>49</LINE></D1>
+  <D2><FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</FILE><LINE>50</LINE></D2>
+  <D3><FILE>D:\software\Atmel Studio\7.0\LEDPORTd AND BUZZER ON PORTC WITH SWITCH ON PORTB\LEDPORTd\main.asm</FILE><LINE>51</LINE></D3>
+ </LABELS>
+</ASSEMBLER_INFO>
